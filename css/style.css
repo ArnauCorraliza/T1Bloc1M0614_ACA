@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    color: #222;
+}
+header {
+    background-color: #000000;
+    color: white;
+}
+main {
+    background-color: #cec5c5;
+    padding: 30px;
+}
+.aficio {
+    background-color: white;
+}
+footer {
+    background-color: #263238;
+    color: white;
+
+}
